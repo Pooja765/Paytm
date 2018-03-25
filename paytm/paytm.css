@@ -1,0 +1,156 @@
+.dropbtn {
+    background-color: #33b2ff;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    padding-left: 50px;
+    text-decoration: none;
+    display: block;
+
+}
+
+.dropdown-content a:hover {
+  text-decoration:blue;
+
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+
+}
+.firstsection {
+
+padding-left: 250px;
+background: url(i1.png) no-repeat 0 100%;
+background-color: rgba(0, 0, 0, 0);
+background-image: url("i1.png");
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-clip: border-box;
+background-origin: padding-box;
+background-position-x: 0px;
+background-position-y: 100%;
+background-size: auto auto;
+ }
+ .backgroundcolor {
+   background-color:#33b2ff;
+ }
+ a:hover {
+    COLOR: skyblue;
+    TEXT-DECORATION: none;
+    font-weight: none }
+
+    .p2 {
+        font-size: 7rem;
+        padding-left: 350px;
+        font-weight: bold;
+        font-weight: 800;
+        font-family: fantasy;
+        margin-top: 1px;
+      }
+      .lcontent {
+    color: white;
+    margin-right: 130px;
+    font-size: 16px;
+    border: none;
+    background-color: #33b2ff;
+      }
+      .lcontent .a :hover{
+        display: block;
+        background-color: darkblue;
+      }
+      .dropbtn1 {
+          color: white;
+          padding: 12px 16px;
+          padding-right: 250px;
+          text-align: right;
+          margin-top: 10px;
+      }
+
+      .p1
+      {
+        font-size: 4rem;
+        line-height: 5rem;
+        color: #fff;
+        font-weight: 300;
+        margin-bottom: 14px;
+      }
+
+      .image1
+      {
+      position: relative;
+      right: 500px;
+      }
+
+      .content2
+      {
+        ine-height: 2.8rem;
+font-size: 2.2rem;
+font-weight: 300;
+color:white;
+      }
+ .txts2
+ {
+   font-size: 30px;
+ }
+ .vl {
+     border-left: 1px  solid gray;
+     height: 550px;
+
+ }
+ .carousel-inner
+ {
+   background : url(mobb.png);
+   width : 150px;
+   height: 350px;
+   margin-left: 400px;
+ }
+ .fsize
+ {
+   font-size: 25px;
+ }
+ .bcolor
+ {
+     background-color: blue;
+ }
+ .v2 {
+     border-left: 1px  solid gray;
+     height: 200px;
+ }
+
+ .footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     color: white;
+     text-align: center;
+     color:black;
+ }
+ .space
+ {
+    word-spacing: 35px;
+ }
